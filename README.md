@@ -1,4 +1,4 @@
-## 一起火通用类库
+## 通用类库
 
 ## 使用方式
 
@@ -8,12 +8,12 @@
 
 {
 	"require":{
-		"huocode/huo.lib":"dev-master"
+		"JulianJiang/lib":"dev-master"
 	},
 	"repositories":[        
 		{
 		    "type":"git",
-			"url":"http://huoadmin:11111111w@gitlab.psworks.com/huocode/huo.lib.git"			
+			"url":"https://github.com/JulianJiang/lib.git"			
 		}
     ]
 }
